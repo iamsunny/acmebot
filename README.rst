@@ -4,7 +4,7 @@
 acmebot
 *******
 
-ACME protocol automatic certitificate manager.
+ACME protocol automatic certificate manager.
 
 This tool acquires and maintains certificates from a certificate authority using the ACME protocol, similar to EFF's Certbot.
 While developed and tested using Let's Encrypt, the tool should work with any certificate authority using the ACME protocol.
